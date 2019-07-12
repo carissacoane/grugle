@@ -1,0 +1,36 @@
+.imagecenter {
+    text-align: center
+}
+
+/* .image-container{
+    margin: 0px auto;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+.image-container img{
+    position: absolute;
+}
+.image-container .image-caption{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+} */
+
+/* div {
+    column-count: 3;
+} */
+
+p {
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+body {
+    background-image: url("minion.gif");
+  }
+
+mark {
+    background-color:rgb(245, 245, 141)
+
+}
